@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E42FDEAD273EA8C200DE3E1E /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42FDEAC273EA8C200DE3E1E /* SafariView.swift */; };
 		E48A667227377F0400D8B812 /* MyOkashiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48A667127377F0400D8B812 /* MyOkashiApp.swift */; };
 		E48A667427377F0400D8B812 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48A667327377F0400D8B812 /* ContentView.swift */; };
 		E48A667627377F0500D8B812 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E48A667527377F0500D8B812 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		E42FDEAA273E9F8400DE3E1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E42FDEAC273EA8C200DE3E1E /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 		E48A666E27377F0400D8B812 /* MyOkashi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyOkashi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E48A667127377F0400D8B812 /* MyOkashiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyOkashiApp.swift; sourceTree = "<group>"; };
 		E48A667327377F0400D8B812 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				E42FDEAA273E9F8400DE3E1E /* Info.plist */,
 				E48A667127377F0400D8B812 /* MyOkashiApp.swift */,
 				E48A667327377F0400D8B812 /* ContentView.swift */,
+				E42FDEAC273EA8C200DE3E1E /* SafariView.swift */,
 				E48A667F27378F5800D8B812 /* OkashiData.swift */,
 				E48A667527377F0500D8B812 /* Assets.xcassets */,
 				E48A667727377F0500D8B812 /* Preview Content */,
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E42FDEAD273EA8C200DE3E1E /* SafariView.swift in Sources */,
 				E48A667427377F0400D8B812 /* ContentView.swift in Sources */,
 				E48A668027378F5800D8B812 /* OkashiData.swift in Sources */,
 				E48A667227377F0400D8B812 /* MyOkashiApp.swift in Sources */,
